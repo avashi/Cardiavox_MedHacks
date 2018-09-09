@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CardiaVox</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">LISTEN</string>
+    <string name="appwidget_text">Cardiavox</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Cardiavox</string>
+</resources>
